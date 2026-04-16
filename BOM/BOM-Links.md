@@ -1,12 +1,12 @@
-https://www.amazon.ca/Tnisesm-Connector-Terminal-Prototype-Soldering/dp/B0BWDZK4KZ/ref=sr_1_9?sr=8-9
-^^^one pack
+[###Soldering/Prototyping Materials (1x)](https://www.amazon.ca/Tnisesm-Connector-Terminal-Prototype-Soldering/dp/B0BWDZK4KZ/ref=sr_1_9?sr=8-9)
 
-https://www.amazon.ca/D3536-Brushless-Multi-copter-Fixed-wing-Helicopters（D3536/dp/B0D3DWFDG7?th=1
-^^^ motor 1x should be 1450Kv model
+[###1450Kv Motor (1x)](https://www.amazon.ca/D3536-Brushless-Multi-copter-Fixed-wing-Helicopters（D3536/dp/B0D3DWFDG7?th=1)
 
+### 60A ESC (1x)
 https://www.amazon.ca/Brushless-2-0mm-fixed-wing-aircraft-helicopter/dp/B0FRM7X984?th=1
 ^^^ ESC 1x 60A model
 
+### 2200mAh 
 https://www.amazon.ca/MELASTA-2200mAh-Airplane-Helicopter-Quadcopter/dp/B01M1ICI8Z/ref=sr_1_6?crid=CYM5SNHNMXCB&sprefix=rc%2Bplane%2Bbattery%2B3s%2Caps%2C268&sr=8-6&th=1
 ^^^ Battery 1x XT60 model
 
