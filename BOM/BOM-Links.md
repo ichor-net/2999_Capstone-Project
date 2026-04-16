@@ -18,3 +18,13 @@
 ### WaveShare RP2350-Zero modules (2x) -> [(Link)](https://www.amazon.ca/Waveshare-RP2350-Zero-Development-Microcontroller-Dual-Architecture/dp/B0DYTVCF2H/ref=sr_1_2?crid=XDJ4OL4GC4QC&qid=1770162112&s=electronics&sprefix=rp2350+zero%2Celectronics%2C153&sr=1-2)
 
 ### Joystick Modules (1x) -> [(Link)](https://www.amazon.ca/Partstower-Joystick-Breakout-Arduino-arduino/dp/B06Y1TG2QL/ref=sr_1_3?crid=1DXCEAN59W83E&qid=1770162182&s=electronics&sprefix=joystick+modul%2Celectronics%2C155&sr=1-3)
+
+## Additional Components Used (Found / Contributed / Bought Last-Minute):
+TP4056 Battery Charger
+XL6009 Boost Converter
+EC11 Rotary Encoder
+MG90s 9g Servos (3x)
+9x6 Two Blade Propeller
+Scavenged Lithium Ion Cell
+The Insides of a CAT6 Ethernet Cable
+RC Plane Landing Gear Kit
