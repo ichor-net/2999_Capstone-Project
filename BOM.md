@@ -15,6 +15,7 @@
 
 ## Additional Components Used (Found / Contributed / Bought Last-Minute):
 + TP4056 Battery Charger
+  
 + XL6009 Boost Converter
 + EC11 Rotary Encoder
 + MG90s 9g Servos (3x)
